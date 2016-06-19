@@ -1,1 +1,1 @@
-# TelerikAcademyCSharpOOP Homeworks
+Zdravei! 
