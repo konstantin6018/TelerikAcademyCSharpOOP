@@ -1,0 +1,6 @@
+D:\TAcademy\C#OOP\OOP Principles-Part1\OOP Principles-Part1\bin\Debug\OOP Principles-Part1.exe.config
+D:\TAcademy\C#OOP\OOP Principles-Part1\OOP Principles-Part1\obj\Debug\OOP Principles-Part1.csprojResolveAssemblyReference.cache
+D:\TAcademy\C#OOP\OOP Principles-Part1\OOP Principles-Part1\bin\Debug\OOP Principles-Part1.exe
+D:\TAcademy\C#OOP\OOP Principles-Part1\OOP Principles-Part1\bin\Debug\OOP Principles-Part1.pdb
+D:\TAcademy\C#OOP\OOP Principles-Part1\OOP Principles-Part1\obj\Debug\OOP Principles-Part1.exe
+D:\TAcademy\C#OOP\OOP Principles-Part1\OOP Principles-Part1\obj\Debug\OOP Principles-Part1.pdb
